@@ -14,3 +14,4 @@ Source: The main data source of the project was inherited from a real world proj
 ::https://youtu.be/6cV3OwFrOkk?si=V93xjLYazwXziGuT <br>
 Data on all the Order details including order id, sales, profit, quantity, categories, sub-categories, and payment mode as well as a complimantary table with customer details.
 
+https://github.com/Harshbugaliya/Sales-Performance-Profitability-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
